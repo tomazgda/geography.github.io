@@ -1,0 +1,84 @@
+#+TITLE: Geography Extension Task
+#+AUTHOR: Tomaz Geddes de Almeida
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+* References
+
+   [[https://www.countryfile.com/go-outdoors/days-out/britains-best-coastal-caves-arches-and-stacks/][Britain’s best coastal caves, arches and stacks]]
+
+   [[http://mapapps.bgs.ac.uk/geologyofbritain/home.html][Geology Finder]]
+   
+* Fingal's Cave
+  
+** Map 
+file:Images/isle-of-staffa.png
+
+** Image
+file:Images/cave-image.jpg
+
+** Description
+   
+- Geology 
+   
+   - /Mull Lava Group - Basalt. Igneous Bedrock formed approximately 56 to 66 million years ago in the Palaeogene Period. Local environment previously dominated by eruptions of silica-poor magma./
+
+   - /These igneous rocks are volcanic (extrusive) in origin. Poor in silica, they form fluid flows of lava with feeder dykes and sills./
+
+- Fingal's cave is located on the Isle of Staffa off the west coast of Scotland. It is composed of regular basalt columns on the lower half of the cliff face.
+
+* Black Church Rock
+** Map 
+file:Images/black-church-rock.png
+
+** Image
+file:Images/arch-image.jpg
+
+** Description
+
+   - Geology 
+
+     - /Mudstone, Siltstone And Sandstone. Sedimentary Bedrock formed approximately 309 to 326 million years ago in the Carboniferous Period/
+
+     - *Setting:* /sub-aqueous slopes./
+
+   - Black Church Rock is located one mile east of Brownsham car park on the north coast of Devon. 
+   
+* Stacks of Dunscaby
+  
+** Map
+  file:Images/stacks-of-dunscaby.png
+  
+** Image 
+  file:Images/stacks-image.jpg
+  
+** Description
+
+   - Geology
+
+     - /Middle Old Red Sandstone (undifferentiated) - Conglomerate, Sandstone, Siltstone And Mudstone. Sedimentary Bedrock formed approximately 385 to 398 million years ago in the Devonian Period./
+
+     - *Setting* : /rivers and alluvial fans./
+
+   - Stacks of Duncansby, Scotland
+
+     The Stacks of Dunscaby are located on the north-east coast of Scotland. 
+  
+* Formation of Caves, Arches, Stacks Stumps
+** Caves 
+   (Dictionary) /A natural underground chamber in a hillside or cliff/ . Essentially, a cave is the first landform created when coastal erosion acts on a cliff.   
+   
+   Lines of weakness in a headland are especially vulnerable to erosion. Coastal erosion, predominately hydraulic action and abrasion, act on these fault lines until a cave is formed.
+
+** Arches
+   If a cave is situated on one side of a headland, it could be eroded through to form an arch.
+   
+** Stacks
+   Continued erosion by  the sea widens the arch. As the base of the arch shrinks due to erosional processes such as hydraulic action more pressure is placed on the roof. Eventually, the roof collapses, leaving a stack.
+
+** Stumps
+   Further erosion and weathering over time causes the stack to collapse, leaving a stump.
+
+* Formation of Wave Cut Platforms
+
+  When waves break against a cliff, erosional processes operating close to the high-tide line takes a 'bite' out of the base of the cliff - a notch. These processes include hydraulic action, whereby gaps in the rock face are compressed by waves acting on the coast, and abrasion.  As the notch gets deeper, often over a period of many years, the overhanging rock can no longer support its own weight and so collapses, causing the cliff to retreat. In its place, the retreating cliffs leave a gently sloping rocky platform called a wave-cut platform. Wave-cut platforms are often smoothed by abrasion. Eventually, constructive waves may deposit sediment on such a platform to form a beach.
+  
